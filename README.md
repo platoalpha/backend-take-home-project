@@ -30,7 +30,7 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 * fetch a single record via GET request
   * **Stretch Goal**: return a sparse fieldset (e.g. `/compensation_data?fields=first_name,last_name,salary`)
 * have the JSON response be normalized into a uniform schema via a serializer or json template
-  * **Stretch Goal**: serialize more than one compensation [data set](/shared/salary_datasets)
+  * **Stretch Goal**: serialize more than one compensation [data set](/datasets)
 
 ### A few quick notes on submitting Exercise A
 
